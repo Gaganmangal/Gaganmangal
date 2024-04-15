@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋, I'm Gagan Mangal</h1>
+<h1 align="center">🚀 Gagan Mangal | Crafting digital dreams with code.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganmangal&label=Profile%20views&color=0e75b6&style=flat" alt="gaganmangal" /> </p>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
- 🌱 I’m currently learning **MERN Stack**
+ 
+ 🚀 MERN-STACK developer
 
- ⚡ Fun fact **I think I am funny**
+ 🌟 Turning caffeine into code since [2021].
+
+ 🎨 Designing pixel-perfect interfaces and writing elegant code like it's poetry.
+
+ 🔍 Seeking the perfect balance between creativity and functionality in every project.
+
+ 🚀 Ready to launch into the world of tech with passion, persistence, and a pinch of humor.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
